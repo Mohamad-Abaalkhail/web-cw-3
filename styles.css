@@ -1,0 +1,15 @@
+img{
+    display: block;
+}
+ul{
+    list-style-type: none;
+}
+.ps4{
+    color: blue;
+}
+.pc{
+    color: green;
+}
+.nintendo{
+    color: red;
+}
